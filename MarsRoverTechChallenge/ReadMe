@@ -1,0 +1,6 @@
+To run this program use the command below in the task folder:
+	java MarsRoverChallenge 
+	
+The machine running the code needs to have a java environment variable set up already.
+
+You can use Eclipse to run the test class by importing the project into eclipse.
